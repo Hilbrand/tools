@@ -882,7 +882,7 @@
       <parameters>
         <parameter>
           <key>max</key>
-          <value>50</value>
+          <value>35</value>
         </parameter>
       </parameters>
     </rule>
