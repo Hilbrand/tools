@@ -238,12 +238,6 @@
     </rule>
     <rule>
       <repositoryKey>java</repositoryKey>
-      <key>S1114</key>
-      <priority>BLOCKER</priority>
-      <parameters />
-    </rule>
-    <rule>
-      <repositoryKey>java</repositoryKey>
       <key>S1116</key>
       <priority>MINOR</priority>
       <parameters />
@@ -1043,12 +1037,6 @@
     </rule>
     <rule>
       <repositoryKey>java</repositoryKey>
-      <key>S1610</key>
-      <priority>MAJOR</priority>
-      <parameters />
-    </rule>
-    <rule>
-      <repositoryKey>java</repositoryKey>
       <key>S1611</key>
       <priority>MINOR</priority>
       <parameters />
@@ -1614,12 +1602,6 @@
     </rule>
     <rule>
       <repositoryKey>java</repositoryKey>
-      <key>S2165</key>
-      <priority>MAJOR</priority>
-      <parameters />
-    </rule>
-    <rule>
-      <repositoryKey>java</repositoryKey>
       <key>S2166</key>
       <priority>MAJOR</priority>
       <parameters />
@@ -2075,12 +2057,6 @@
     <rule>
       <repositoryKey>java</repositoryKey>
       <key>S2647</key>
-      <priority>CRITICAL</priority>
-      <parameters />
-    </rule>
-    <rule>
-      <repositoryKey>java</repositoryKey>
-      <key>S2658</key>
       <priority>CRITICAL</priority>
       <parameters />
     </rule>
