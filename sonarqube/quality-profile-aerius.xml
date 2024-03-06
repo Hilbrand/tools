@@ -3053,6 +3053,12 @@
     </rule>
     <rule>
       <repositoryKey>java</repositoryKey>
+      <key>S5329</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
       <key>S5332</key>
       <priority>CRITICAL</priority>
       <parameters />
@@ -3564,6 +3570,12 @@
     </rule>
     <rule>
       <repositoryKey>java</repositoryKey>
+      <key>S6201</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
       <key>S6202</key>
       <priority>MAJOR</priority>
       <parameters />
@@ -3581,8 +3593,26 @@
     </rule>
     <rule>
       <repositoryKey>java</repositoryKey>
+      <key>S6204</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
       <key>S6205</key>
       <priority>MINOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6206</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6207</key>
+      <priority>MAJOR</priority>
       <parameters />
     </rule>
     <rule>
@@ -3593,8 +3623,50 @@
     </rule>
     <rule>
       <repositoryKey>java</repositoryKey>
+      <key>S6211</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
       <key>S6213</key>
       <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6216</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6218</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6219</key>
+      <priority>MINOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6326</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6331</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6353</key>
+      <priority>MINOR</priority>
       <parameters />
     </rule>
     <rule>
@@ -3618,6 +3690,24 @@
     <rule>
       <repositoryKey>java</repositoryKey>
       <key>S6377</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6395</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6396</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>java</repositoryKey>
+      <key>S6397</key>
       <priority>MAJOR</priority>
       <parameters />
     </rule>
@@ -3749,6 +3839,12 @@
     <rule>
       <repositoryKey>javasecurity</repositoryKey>
       <key>S6350</key>
+      <priority>MAJOR</priority>
+      <parameters />
+    </rule>
+    <rule>
+      <repositoryKey>javasecurity</repositoryKey>
+      <key>S6398</key>
       <priority>MAJOR</priority>
       <parameters />
     </rule>
